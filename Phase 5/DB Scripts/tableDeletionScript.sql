@@ -1,0 +1,25 @@
+USE book_fetch;
+
+DROP TABLE IF EXISTS keyword;
+DROP TABLE IF EXISTS authors;
+DROP TABLE IF EXISTS category;
+DROP TABLE IF EXISTS being_purchased;
+DROP TABLE IF EXISTS purchased;
+DROP TABLE IF EXISTS books_used;
+DROP TABLE IF EXISTS recommendation;
+DROP TABLE IF EXISTS employee;
+DROP TABLE IF EXISTS representative;
+DROP TABLE IF EXISTS orders;
+DROP TABLE IF EXISTS taking_course;
+DROP TABLE IF EXISTS student_reviews;
+DROP TABLE IF EXISTS book;
+DROP TABLE IF EXISTS cart;
+DROP TABLE IF EXISTS course;
+DROP TABLE IF EXISTS instructor;
+DROP TABLE IF EXISTS trouble_ticket;
+DROP TABLE IF EXISTS department;
+DROP TABLE IF EXISTS student;
+DROP TABLE IF EXISTS customer_support_user;
+DROP TABLE IF EXISTS university;
+DROP TABLE IF EXISTS administrator;
+DROP TABLE IF EXISTS users;
